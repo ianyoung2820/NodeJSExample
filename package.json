@@ -1,11 +1,19 @@
 {
   "name": "nodejsexample",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "",
+=======
+  "description": "First pieces to my Node project.",
+>>>>>>> b010e65 (first commit)
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
   "author": "",
+=======
+  "author": "Ian Young",
+>>>>>>> b010e65 (first commit)
   "license": "ISC"
 }
